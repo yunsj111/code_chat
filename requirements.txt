@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+matplotlib
+anthropic
+firebase-admin
+extra-streamlit-components
